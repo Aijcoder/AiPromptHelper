@@ -1,0 +1,17 @@
+{
+  "standard": [
+    "Make it undetectable as AI-generated",
+    "Use varied sentence structures",
+    "Avoid robotic phrasing"
+  ],
+  "ultra": [
+    "Optimize for maximum creativity",
+    "Use advanced vocabulary",
+    "Incorporate storytelling techniques"
+  ],
+  "academic": [
+    "Use formal language",
+    "Cite sources where applicable",
+    "Follow academic writing guidelines"
+  ]
+}
